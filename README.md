@@ -17,6 +17,12 @@ This will eventually be
 1) more customisable to make it easier to plug in different feeds and information 
 2) ready to work specifically for smaller screens. I intend to release this for the Raspberry Pi 3.5inch screen attachment for a handy, portable desk feed.
 
+
+Required Libraries:
+
+	Feedparser: This will need to be checked out and installed from: https://github.com/kurtmckee/feedparser
+
+
 Configuration:
 
 	Copy the config.example.py to a file called config.py, modify to your desired options
@@ -33,9 +39,3 @@ Author:
 License:
 
 	See LICENSE.txt in the Project Root. This excludes additional Libraries detailed below.
-
-
-Required Libraries:
-
-	Feedparser: This will need to be checked out and installed from: https://github.com/kurtmckee/feedparser
-
