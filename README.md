@@ -18,9 +18,11 @@ This will eventually be
 2) ready to work specifically for smaller screens. I intend to release this for the Raspberry Pi 3.5inch screen attachment for a handy, portable desk feed.
 
 Configuration:
+
 	Copy the config.example.py to a file called config.py, modify to your desired options
 
 How To Run:
+
 	Browse to the directory in a terminal or similar and run "python reel.py"
 
 
