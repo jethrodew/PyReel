@@ -13,8 +13,11 @@
 
 Pyreel is a python utility which provides a commandline RSS output for the BBC news. 
 Replacing the necessary RSS feeds will change the output accordingly. 
-This will eventually be 1) more customisable to make it easier to plug in different feeds and information and 2) ready to work specifically for smaller screens. 
-I intend to release this for the Raspberry Pi 3.5inch screen attachment for a handy, portable desk feed.
+This will eventually be 
+1) more customisable to make it easier to plug in different feeds and information 
+2) ready to work specifically for smaller screens. I intend to release this for the Raspberry Pi 3.5inch screen attachment for a handy, portable desk feed.
+
+Currently looks at weather for Oxford and news for the UK and Technology
 
 
 Author:
@@ -26,7 +29,7 @@ License:
 	See LICENSE.txt in the Project Root. This excludes additional Libraries detailed below.
 
 
-Additional Libraries:
+Required Libraries:
 
-	FeedParser "feedparser/"  : Contents of the Feedparser folder are distributed and owned according to the LICENSE file held within.
+	Feedparser: This will need to be checked out and installed from: https://github.com/kurtmckee/feedparser
 
